@@ -19,7 +19,3 @@ My research ranges from developing theoretical [Schrödinger bridge frameworks](
 I also write technical articles on my Substack, [**Alchemy Bio**](https://alchemybio.substack.com/). My most read article, [“A Complete Guide to Spherical Equivariant Graph Transformers”](https://arxiv.org/abs/2512.13927) (now released on arXiv) is a self-contained guide (99 pages, 46 figures) breaking down the theory behind spherical equivariant graph neural networks (EGNNs) for geometric deep learning.
 
 If you’re also passionate about any of these topics, I would love to connect via [**LinkedIn**](https://www.linkedin.com/in/sophia-tang-05/) or [**X**](https://x.com/_sophia_tang_).
-
-</p>
-
----
